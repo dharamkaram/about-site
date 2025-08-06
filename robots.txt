@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mydharamkaram.paithaniandsilksaree.com/sitemap.xml
